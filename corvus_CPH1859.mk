@@ -19,7 +19,7 @@ $(call inherit-product, vendor/corvus/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 CORVUS_MAINTAINER := Meghthedev
-RAVEN_LAIR := unofficial
+RAVEN_LAIR := Official
 USE_GAPPS=true
 
 # Device identifier. This must come after all inclusions.
