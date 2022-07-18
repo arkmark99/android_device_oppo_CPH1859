@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_CPH1859.mk
+    $(LOCAL_DIR)/aosp_CPH1859.mk
