@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fluid_CPH1859.mk
+    $(LOCAL_DIR)/derp_CPH1859.mk
