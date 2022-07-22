@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_CPH1859.mk
+    $(LOCAL_DIR)/fluid_CPH1859.mk
